@@ -44,5 +44,11 @@
         "https://claude.ai/*"
       ]
     }
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "claudesona@n8python",
+      "strict_min_version": "109.0"
+    }
+  }
 }
